@@ -60,7 +60,7 @@ Screenshots folder includes:
 - Zap attack
  ![Docker Setup](Screenshots/Alerts.png)
 - HTTP request/response logs
-  ![Docker Setup](Screenshots/Burp_suit.png)  
+  ![Docker Setup](Screenshots/Burp_Suit.png)  
 - Login attempts
   ![Docker Setup](Screenshots/login.png)  
   ![Docker Setup](Screenshots/login2.png)  
