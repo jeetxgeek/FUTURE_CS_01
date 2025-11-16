@@ -10,7 +10,7 @@ The main objective was to simulate real-world penetration testing, identify vuln
 - Successfully deployed **OWASP Juice Shop using Docker** on Windows 11  
 - Configured **Burp Suite** to intercept and analyze HTTP/HTTPS traffic  
 - Explored and mapped vulnerabilities to **OWASP Top 10**  
-- Identified key issues including:  
+- Identified key issues, including:  
   - Broken Authentication  
   - Reflected XSS (attempted)  
   - Unauthorized Access to Admin pages  
@@ -38,8 +38,12 @@ The main objective was to simulate real-world penetration testing, identify vuln
 
 ---
 
-## 📁 Deliverables  
-- **Report.pdf** – Full Vulnerability Assessment Report  
+ 
+## 📁 Deliverables
+### 🔐 Security Assessment Report  
+📄 **[Click here to view/download Report.pdf](Screenshots/FUTURE_INTERNS.pdf)**  
+- Contains all identified vulnerabilities, severity ratings, evidence, and recommended mitigation steps.
+
 - **/screenshots/** – Evidence, intercepted requests, tool outputs  
 - Burp Site Map & Proxy Logs  
 
