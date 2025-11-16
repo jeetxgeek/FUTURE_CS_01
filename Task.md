@@ -55,7 +55,8 @@ The main objective was to simulate real-world penetration testing, identify vuln
 
 ## 📸 Screenshots  
 Screenshots folder includes:  
-- Docker setup  
+- Docker setup
+- ![Docker Setup](Screenshots/docker.png)
 - Burp Suite request interception  
 - HTTP request/response logs  
 - Login attempts  
