@@ -57,14 +57,18 @@ The main objective was to simulate real-world penetration testing, identify vuln
 Screenshots folder includes:
 - Docker Setup
  ![Docker Setup](Screenshots/docker2.png)
-- Burp Suite request interception
-  ![Docker Setup](Screenshots/docker2.png)
 - Zap attack
  ![Docker Setup](Screenshots/Alerts.png)
-- HTTP request/response logs  
-- Login attempts  
-- Admin page protection  
-- Vulnerability proof & analysis  
+- HTTP request/response logs
+  ![Docker Setup](Screenshots/Burp_suit.png)  
+- Login attempts
+  ![Docker Setup](Screenshots/login.png)  
+  ![Docker Setup](Screenshots/login2.png)  
+- Admin page protection
+  ![Docker Setup](Screenshots/safe.png) 
+- /ftp Vulnerability proof & analysis
+  ![Docker Setup](Screenshots/ftp.png)
+  ![Docker Setup](Screenshots/ftp2.png)
 
 ---
 
