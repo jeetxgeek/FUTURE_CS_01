@@ -34,14 +34,14 @@ The main objective was to simulate real-world penetration testing, identify vuln
 - Docker Desktop (Windows 11)  
 - Burp Suite Community Edition  
 - Chromium Browser (Burp-controlled)  
-- FoxyProxy (Alternative proxy setup)  
+- FoxyProxy (Alternative proxy setup)(Optional)  
 
 ---
 
 ## 📁 Deliverables  
 - **Report.pdf** – Full Vulnerability Assessment Report  
 - **/screenshots/** – Evidence, intercepted requests, tool outputs  
-- (Optional) Burp Site Map & Proxy Logs  
+- Burp Site Map & Proxy Logs  
 
 ---
 
